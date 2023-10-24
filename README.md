@@ -1,2 +1,2 @@
-![davisaur GitHub Banner](/davisaur github banner.png)
+![davisaur GitHub Banner](/assets/banner.png)
 
