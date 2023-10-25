@@ -8,7 +8,7 @@ I'm a Software Engineering Student by day, Video Editor for content creators by 
 
 # 🎬 Video Editing
 
-I've dabbled in video editing since I was about 9-10, originally inspired by the use of After Effects, by fellow content creator going under the name, [Mumbo Jumbo](http://youtube.com/@MumboJumbo), whose content was way ahead of the time a few years back. 
+I've dabbled in video editing since I was about 9-10, originally inspired by the use of After Effects, by fellow content creator going under the name, [Mumbo Jumbo](http://youtube.com/@ThatMumboJumbo), whose content was way ahead of the time a few years back. 
 
 Fast forward to around 2020, I started work on my portfolio. And with the help of [NoGoodDavis](http://twitter.com/NoGoodDavis) and [Caru](http://twitter.com/caru), I managed to get my head start making TikToks for a couple of gaming-focused content creators.
 
